@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para mais detalhes sobre mim, me segue nas redes abaixo!
+  ### Me segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/joao_hguerra" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
